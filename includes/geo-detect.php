@@ -18,3 +18,8 @@ function get_user_country() {
 }
 
 
+// For debugging: print the current country code
+function print_current_country_code() {
+    $country = get_user_country();
+    echo "<p style='text-align: center; padding: 10px; background: #f0f0f0;'>Current Country Code: {$country}</p>";
+}
