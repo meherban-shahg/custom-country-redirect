@@ -51,3 +51,14 @@ Custom Country Redirect is a WordPress plugin that redirects users to different 
 
 ## Files and Structure
 
+custom-country-redirect/
+│
+├── admin/
+│ └── settings-page.php
+│
+├── includes/
+│ ├── geo-detect.php
+│ └── redirect.php
+│
+└── custom-country-redirect.php
+
