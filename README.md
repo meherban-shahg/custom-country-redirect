@@ -50,7 +50,6 @@ Custom Country Redirect is a WordPress plugin that redirects users to different 
    - The current country code will be printed at the bottom of your site's front end for debugging purposes.
 
 ## Files and Structure
-
 custom-country-redirect/
 │
 ├── admin/
