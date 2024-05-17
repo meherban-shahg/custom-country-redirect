@@ -42,6 +42,7 @@ function ccr_settings_page() {
     <?php
 }
 
+// 
 // Register Settings
 function ccr_register_settings() {
     register_setting('ccr_settings_group', 'ccr_redirection_rules');
